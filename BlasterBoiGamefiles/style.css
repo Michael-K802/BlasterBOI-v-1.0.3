@@ -1,0 +1,48 @@
+body {
+    color: #f356f6;
+    background-color: #000;
+    text-align: center;
+  }
+  h1 {
+    color: #ff0000;
+    text-align: center;
+  }
+  p {
+    width: 30%;
+    text-align: center;
+    margin: 0 auto;
+  }
+  .top{
+    height: 100px;
+  }
+  .instructions {
+    width: 30%;
+    margin: 0 auto;
+    text-align: center;
+  }
+  .controls {
+    width: 30%;
+    margin: 0 auto;
+    text-align: center;
+  }
+  table {
+    margin: 0 auto;
+    border-collapse: collapse;
+  }
+  tr, td {
+    padding: 10px;
+    border: 1px solid #ff0000;
+    border-radius: 15px;
+    max-width: 200px;
+    min-width: 50px;
+    max-height: 60px;
+    min-height: 20px;
+  }
+  th {
+    padding: 20px;
+    border: 1px solid #ff0000;
+    border-radius: 15px;
+  }
+  canvas {
+    margin: 100px 0;
+  }
